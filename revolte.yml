@@ -15,4 +15,6 @@ revolte:
             storage: 30
           properties:
             health: /
-            port: 8080
+            port: 3001
+            variables:
+              BASE_URL: /api/v1
